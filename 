@@ -1,0 +1,30 @@
+[33mcommit 33b4e713b28961b60153d338672c23f322d6eb30[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: c3b57b0 8b5f7f1
+Author: lamine diouf <alamineahad28@gmail.com>
+Date:   Fri Feb 9 02:09:02 2018 +0000
+
+    Merge branch 'green-background'
+
+[33mcommit c3b57b0ff24c12c048fafe36eac876209e55ea61[m
+Author: lamine diouf <alamineahad28@gmail.com>
+Date:   Fri Feb 9 02:00:06 2018 +0000
+
+    g changer hello world en hello world master
+
+[33mcommit 8b5f7f195325b953820f2cf8f77a0ffdb49e9756[m[33m ([m[1;32mgreen-background[m[33m)[m
+Author: lamine diouf <alamineahad28@gmail.com>
+Date:   Fri Feb 9 01:49:51 2018 +0000
+
+    green background
+
+[33mcommit 67affabc273f1b58fadd3815bc623e9d6550bcb4[m
+Author: lamine diouf <alamineahad28@gmail.com>
+Date:   Fri Feb 9 01:16:21 2018 +0000
+
+    centrer le text
+
+[33mcommit 2bf12dc21b4a0e237ca3c3f2d79e334209c15e9e[m
+Author: lamine diouf <alamineahad28@gmail.com>
+Date:   Fri Feb 9 00:51:06 2018 +0000
+
+    creation de mon 1er version indexfiles
